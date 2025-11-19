@@ -1,0 +1,2 @@
+# obsidian-dashboard
+obsidian用に特別な起動画面を追加するDockerコンテナ
